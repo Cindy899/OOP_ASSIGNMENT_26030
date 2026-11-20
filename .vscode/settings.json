@@ -1,0 +1,33 @@
+{
+    "java.project.sourcePaths": [
+        "src"
+    ],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar"
+    ],
+    "cSpell.words": [
+        "auca"
+    ],
+    "workbench.colorCustomizations": {
+        "[Default Dark Modern]": {
+            "tab.activeBorderTop": "#00FF00",
+            "tab.unfocusedActiveBorderTop": "#00FF0088",
+            "textCodeBlock.background": "#00000055"
+        },
+        "editor.wordHighlightStrongBorder": "#FF6347",
+        "editor.wordHighlightBorder": "#FFD700",
+        "editor.selectionHighlightBorder": "#A9A9A9",
+        "activityBar.background": "#223204",
+        "titleBar.activeBackground": "#2F4706",
+        "titleBar.activeForeground": "#F5FDE5",
+        "titleBar.inactiveBackground": "#223204",
+        "titleBar.inactiveForeground": "#F5FDE5",
+        "statusBar.background": "#223204",
+        "statusBar.foreground": "#F5FDE5",
+        "statusBar.debuggingBackground": "#223204",
+        "statusBar.debuggingForeground": "#F5FDE5",
+        "statusBar.noFolderBackground": "#223204",
+        "statusBar.noFolderForeground": "#F5FDE5"
+    }
+}
